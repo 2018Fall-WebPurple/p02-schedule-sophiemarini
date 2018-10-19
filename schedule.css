@@ -1,0 +1,22 @@
+/*
+*Sophie Marini
+*Due Date
+*Sophies Schedule
+*/
+
+/*The universal selector*/
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+background-color:pink
+} 
+table, td, th {border: 2px solid black;}
+table { border-collapse: collapse;}
+
+thead{background-color: lightblue;}
+tfoot {background-color: deepskyblue;}
